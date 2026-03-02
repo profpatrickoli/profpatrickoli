@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o Prof. Patrick!
 - 📜 Bacharel em Ciência da Computação - UTFPR.
-- 💻 Professor pelo estado do Paraná desde 2023, atualmente lecionando no ensino técnico em informática.
+- 💻 Professor pelo estado do Paraná desde 2023, atualmente lecionando no ensino técnico em desenvolvimento de sistemas.
 - 📫 Em caso de dúvidas, entrar em contato através do email institucional: patrick.staroin@escola.pr.gov.br
 
 <div align= "center">
